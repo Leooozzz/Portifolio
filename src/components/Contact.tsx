@@ -62,7 +62,7 @@ export const Contact = () => {
               <div>
                 <div className="font-semibold">GitHub</div>
                 <div className="text-sm text-muted-foreground">
-                  https://github.com/Leooozzzz
+                  https://github.com/Leooozzz
                 </div>
               </div>
             </a>
