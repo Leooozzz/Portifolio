@@ -10,21 +10,28 @@ export const About = () => {
         <div className="w-20 h-1 bg-primary mx-auto mb-12" />
 
         <Card className="p-8 bg-card border-border ">
-          <p className="text-lg text-muted-foreground leading-relaxed mb-6">
-            Sou um desenvolvedor web apaixonado por criar soluções digitais que
-            fazem a diferença. Com foco em desenvolvimento front-end, tenho
-            experiência em construir aplicações modernas, responsivas e
-            acessíveis.
+          <p className="text-lg text-muted-foreground leading-relaxed">
+            Sou estudante de{" "}
+            <span className="font-semibold">
+              Análise e Desenvolvimento de Sistemas
+            </span>{" "}
+            pela
+            <span className="font-semibold"> UNIP-SP</span>, atualmente cursando
+            o 2º semestre. A tecnologia sempre fez parte da minha vida, e hoje
+            estou totalmente focado em evoluir como desenvolvedor{" "}
+            <span className="font-semibold">Fullstack</span>.
           </p>
 
-          <p className="text-lg text-muted-foreground leading-relaxed mb-6">
-            Minha jornada na programação começou com curiosidade e se
-            transformou em uma dedicação constante ao aprendizado. Estou sempre
-            buscando novos desafios e oportunidades para crescer
-            profissionalmente.
+          <p className="text-lg text-muted-foreground leading-relaxed">
+            Tenho me dedicado diariamente ao estudo de ferramentas e tecnologias
+            modernas, com foco em criar soluções eficientes, acessíveis e
+            visualmente atraentes. Meu objetivo é construir aplicações que unam
+            boa experiência de usuário, organização de código e performance.
           </p>
         </Card>
       </div>
+      
     </section>
+    
   );
 };
