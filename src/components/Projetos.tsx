@@ -36,7 +36,7 @@ export const Projetos = () => {
   ];
 
   return (
-    <section id="projects" className="py-20 px-4">
+    <section id="projetos" className="py-20 px-4">
       <div className="container mx-auto max-w-6xl">
         <h2 className="text-4xl font-bold mb-4 text-center">
           Meus <span className="text-primary">Projetos</span>

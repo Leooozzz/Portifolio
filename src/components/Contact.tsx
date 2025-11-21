@@ -4,7 +4,7 @@ import { Card } from "./ui/card";
 
 export const Contact = () => {
   return (
-    <section id="contact" className="py-20 px-4 bg-secondary/30">
+    <section id="contato" className="py-20 px-4 bg-secondary/30">
       <div className="container mx-auto max-w-4xl">
         <h2 className="text-4xl font-bold mb-4 text-center">
           Entre em <span className="text-primary">Contato</span>
