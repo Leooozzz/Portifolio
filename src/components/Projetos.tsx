@@ -33,6 +33,13 @@ export const Projetos = () => {
       tags: ["React", "TypeScript", "Api", "Axios", "ShadcnUI"],
       image: "images/FAKESTORE.png",
     },
+    {
+      title: "TodoList",
+      description:"TodoList com banco de dados postgreSQL",
+      url:"https://github.com/Leooozzz/Todo-list-fullstack-with-prisma-and-postgreSQL",
+      tags:["React","TypeScript","Axios","Zod","ShadcnUI","Prisma","Node","Express","PostgreSQl"],
+      image:"images/TodoList.png"
+    }
   ];
 
   return (

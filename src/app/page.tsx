@@ -10,7 +10,7 @@ const Page = () => {
   return (
     <div>
       <Header />
-      <Separator />
+      <Separator/>
       <Hero />
       <About/>
       <Tecnologi/>

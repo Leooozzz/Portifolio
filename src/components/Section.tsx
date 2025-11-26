@@ -44,14 +44,14 @@ export const Hero = () => {
               size="lg"
               className="bg-primary hover:bg-primary/90 text-primary-foreground "
             >
-              Ver Projetos
+             <a href="#projetos">Ver Projetos</a> 
             </Button>
             <Button
               size="lg"
               variant="outline"
               className="border-primary text-foreground hover:bg-primary/10"
             >
-              Entre em Contato
+              <a href="#contato">Entre em Contato</a>
             </Button>
           </div>
 

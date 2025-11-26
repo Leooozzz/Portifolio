@@ -7,6 +7,9 @@ export const Tecnologi = () => {
     { name: "Tailwind CSS", src: "/images/Tailwindcs.png" },
     { name: "Node.js", src: "/images/node.png" },
     { name: "SQL", src: "/images/Sql.png" },
+    {name: "PostgreSQL", src: "/images/postgresql.png"},
+    {name:"prisma", src:"/images/prisma.png"}
+
   ];
 
   return (
