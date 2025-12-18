@@ -18,6 +18,8 @@ export const Tecnologi = () => {
     { name: "SQL", src: "/images/Sql.png" },
     { name: "PostgreSQL", src: "/images/postgresql.png" },
     { name: "Prisma", src: "/images/prisma.png" },
+    { name: "Git" , src: "/images/git.png"},
+    {name: "Github",src: "/images/github.png"}
   ]
 
   const autoplay = useRef(

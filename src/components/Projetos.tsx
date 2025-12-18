@@ -61,7 +61,7 @@ export const Projetos = () => {
           {projects.map((project, index) => (
             <Card
               key={index}
-              className="overflow-hidden bg-card border-border hover:border-primary transition-all duration-300 hover:shadow-[var(--shadow-glow)] group"
+              className="overflow-hidden bg-card border-border hover:border-primary transition-all duration-300 hover:shadow-(--shadow-glow) group"
             >
               <div className="relative overflow-hidden h-48">
                 <img
