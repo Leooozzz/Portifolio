@@ -39,6 +39,13 @@ export const Projetos = () => {
       url:"https://github.com/Leooozzz/Todo-list-fullstack-with-prisma-and-postgreSQL",
       tags:["React","TypeScript","Axios","Zod","ShadcnUI","Prisma","Node","Express","PostgreSQl"],
       image:"images/TodoList.png"
+    },
+    {
+      title:"Tabacreme",
+      description:"Crud completo e-commerce de loja de tabacos e produtos relacionado",
+      url:"https://github.com/Leooozzz/Project-ecommerce-with-node.git",
+      tags:["React","Next","Zustand","TypeScript","Axios","Zod","ShadcnUI","Prisma","Node","Express","Jwt","PostgreSQl"],
+      image:"images/Tabacreme.png"
     }
   ];
 
