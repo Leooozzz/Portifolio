@@ -1,28 +1,20 @@
-import { ExternalLink, Github } from "lucide-react";
+import { Github } from "lucide-react";
 import { Button } from "./ui/button";
 import { Card } from "./ui/card";
 
 export const Projetos = () => {
   const projects = [
     {
-      title: "Loja de sushi",
-      description: "Loja de sushi completa com carrinho de compras .",
-      tags: ["React", "TypeScript", "Tailwind", "Zod", "ShadcnUI"],
-      url: "https://github.com/Leooozzz/Projeto-front-end-Sushi",
-      image: "images/Sushi.png  ",
+      title: "Assasin`s Creed landPage",
+      description: "Land Page do jogo assasin`s creed valhalla.",
+      tags: ["React", "TypeScript", "Tailwind", "ShadcnUI"],
+      url: "https://github.com/Leooozzz/Assasin-s-Creed-landPage.git",
+      image: "images/assasin`screedLandPage.png  ",
     },
     {
       title: "Petshop",
       description: "Petshop em com exibição dos animais.",
-      tags: [
-        "React",
-        "Node",
-        "Next",
-        "Tailwind",
-        "Axios",
-        "ShadcnUi",
-        "Express",
-      ],
+      tags: ["React","Node","Next","Tailwind","Axios","ShadcnUi","Express",],
       url: "https://github.com/Leooozzz/Projeto-full-stack-canil",
       image: "images/PETSHOP.png",
     },
@@ -46,6 +38,13 @@ export const Projetos = () => {
       url:"https://github.com/Leooozzz/Project-ecommerce-with-node.git",
       tags:["React","Next","Zustand","TypeScript","Axios","Zod","ShadcnUI","Prisma","Node","Express","Jwt","PostgreSQl"],
       image:"images/Tabacreme.png"
+    },
+    {
+      title:"MuayThai Land Page",
+      description:"Land page de muaythai",
+      url:"https://github.com/Leooozzz/LandPageMuayThai.git",
+      tags:["React","TypeScript","Javascript","Vite"],
+      image:'images/landpage.png'
     }
   ];
 
